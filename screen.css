@@ -1,1 +1,8 @@
-/* Add screen styles below */
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    background-color: pink;
+}
